@@ -21,10 +21,11 @@
 # # separated by equals signs.
 # #font-family = Iosevka
 font-family = "SF Mono"
+font-style = Light
 font-size = 12
 term = "xterm-256color"
 command = /bin/zsh
-background-opacity = 0.44
+background-opacity = 0.90
 background-blur = true
 foreground = 33FF41
 macos-titlebar-style = native
